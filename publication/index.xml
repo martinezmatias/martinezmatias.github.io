@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selected Publications on Matias Martinez</title>
+    <link>https://martinezmatias.github.io/publication/</link>
+    <description>Recent content in Selected Publications on Matias Martinez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ASTOR: a program repair library for Java (demo)</title>
+      <link>https://martinezmatias.github.io/publication/astor2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinezmatias.github.io/publication/astor2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic repair of real bugs in java: a large-scale experiment on the defects4j dataset.</title>
+      <link>https://martinezmatias.github.io/publication/empirical2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinezmatias.github.io/publication/empirical2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining software repair models for reasoning on the search space of automated program fixing.</title>
+      <link>https://martinezmatias.github.io/publication/empirical2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinezmatias.github.io/publication/empirical2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
