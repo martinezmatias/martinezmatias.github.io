@@ -10,7 +10,7 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>ASTOR: a program repair library for Java (demo)</title>
+      <title>ASTOR: a program repair library for Java</title>
       <link>https://martinezmatias.github.io/publication/astor2016/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
@@ -19,7 +19,7 @@
     </item>
     
     <item>
-      <title>Automatic repair of real bugs in java: a large-scale experiment on the defects4j dataset.</title>
+      <title>Automatic repair of real bugs in java: a large-scale experiment on the defects4j dataset</title>
       <link>https://martinezmatias.github.io/publication/empirical2016/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
@@ -28,7 +28,7 @@
     </item>
     
     <item>
-      <title>Mining software repair models for reasoning on the search space of automated program fixing.</title>
+      <title>Mining software repair models for reasoning on the search space of automated program fixing</title>
       <link>https://martinezmatias.github.io/publication/empirical2013/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
       
