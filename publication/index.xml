@@ -10,6 +10,15 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Test Case Generation for Program Repair: A Study of Feasibility and Effectiveness</title>
+      <link>https://martinezmatias.github.io/publication/empirical2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinezmatias.github.io/publication/empirical2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ASTOR: a program repair library for Java</title>
       <link>https://martinezmatias.github.io/publication/astor2016/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
