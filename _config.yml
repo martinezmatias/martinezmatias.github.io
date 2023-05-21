@@ -1,0 +1,10 @@
+title: Matias Martinez
+logo: /assets/img/mmartinez_small.jpg
+description: Software Engineer, Researcher, University Teacher 
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+summary: "Software Engineer, Researcher, University Teacher"
+sidebar: mydoc_sidebar
+url: https://github.com/martinezmatias/
+baseurl: /martinezmatias.github.io
