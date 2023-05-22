@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Matias Martinez</title>
+    <link>https://martinezmatias.github.io/project/</link>
+    <description>Recent content in Projects on Matias Martinez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Astor</title>
+      <link>https://martinezmatias.github.io/project/astor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinezmatias.github.io/project/astor/</guid>
+      <description>&lt;p&gt;Astor is an automatic software repair framework in Java for Java. It contains the new state of the art repair approach named DeepRepair, and an implementation of state of the art repair approaches such as GenProg and Kali (named jGenProg and jKali, respectively).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/SpoonLabs/astor&#34; target=&#34;_blank&#34;&gt;https://github.com/SpoonLabs/astor&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coming</title>
+      <link>https://martinezmatias.github.io/project/coming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinezmatias.github.io/project/coming/</guid>
+      <description>&lt;p&gt;Coming: A tool for mining commits of software repositories&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/Spirals-Team/coming&#34; target=&#34;_blank&#34;&gt;https://github.com/Spirals-Team/coming&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gumtree-spoon-ast-diff</title>
+      <link>https://martinezmatias.github.io/project/gtspoodiff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinezmatias.github.io/project/gtspoodiff/</guid>
+      <description>&lt;p&gt;Gumtree-spoon-ast-diff: Computes the AST difference (aka edit script) between two Spoon Java abstract syntax trees&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/SpoonLabs/gumtree-spoon-ast-diff/&#34; target=&#34;_blank&#34;&gt;https://github.com/SpoonLabs/gumtree-spoon-ast-diff/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
