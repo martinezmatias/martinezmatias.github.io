@@ -25,6 +25,8 @@ I appear in the second place on the ranking of **Most Impactful Early-stage Soft
 
 I am associate editor of [Springer Automated Software Engineering journal](https://www.springer.com/journal/10515).
 
+I have published in the French magazine  [ActuAI](https://www.actuia.com/) an article about AI in source code (ActuAI number 8)
+
 # Education:
 
 - PhD Computer science, 2014. University of Lille & Inria, France
@@ -36,8 +38,9 @@ I am associate editor of [Springer Automated Software Engineering journal](https
 
 - Machine learning on source code
 - Software testing, maintenance and evolution
-- Green/sustainable AI & Software
-- Automated Software Engineering
+- Green/sustainable AI & software
+- Automated software engineering
+- Software security
 
 
 # Tools:
@@ -54,18 +57,21 @@ Moreover, I have also contributed to other open-source projects such as:
 
 # Publications:
 
+See all my publications in [Google Scholar](https://scholar.google.com/citations?user=glRf46S0yTIC&hl=en)
 
 ## 2023
 
 *Taxonomy of Attacks on Open-Source Software Supply Chains*. P. Ladisa, H. Plate, M. Martinez, O. Barais. **IEEE S&P 2023** [[Download Arxiv]](https://arxiv.org/abs/2204.04008)	
 
+*Learning the Relation between Code Features and Code Transforms with Structured Prediction*. Z. Yu, M. Martinez, Z. Chen, T. Bissyandé, M. Monperrus. **Transactions on Software Engineering (TSE)** [[Download Arxiv]](https://arxiv.org/abs/1907.09282)
+
 *Journey to the Center of Software Supply Chain Attacks* P. Ladisa,  S. Ponta, A. Sabetta, M. Martinez, O. Barais.[[Download Arxiv]](https://arxiv.org/abs/2304.05200)
 
 *Energy Consumption of Automated Program Repair*. M. Martinez, S. Martinez-Fernandez, X. Franch. [[Download Arxiv]](http://arxiv.org/abs/2211.12104)
 
-*Energy efficiency of training neural network architectures: An empirical study*. Y. Xu, S. Martínez-Fernández, M. Martinez, X. Franch. **HICSS-56**.
+*Energy efficiency of training neural network architectures: An empirical study*. Y. Xu, S. Martínez-Fernández, M. Martinez, X. Franch. **HICSS-56**. [[Download Arxiv]](https://arxiv.org/abs/2302.00967)
 
-*Evolution of Kotlin Apps in terms of Energy Consumption: An Exploratory Study*. H. Ahmed, A. Boshchenko, N. Khan, D. Knyajev, D. Garifollina, G. Scoccia, M. Martinez, I. Malavolta.  **ICT4S 2023**[Download](http://www.ivanomalavolta.com/files/papers/ICT4S_2023.pdf)
+*Evolution of Kotlin Apps in terms of Energy Consumption: An Exploratory Study*. H. Ahmed, A. Boshchenko, N. Khan, D. Knyajev, D. Garifollina, G. Scoccia, M. Martinez, I. Malavolta. **ICT4S 2023**.  [Download](http://www.ivanomalavolta.com/files/papers/ICT4S_2023.pdf)
 
 
 ## 2022
@@ -145,7 +151,6 @@ Moreover, I have also contributed to other open-source projects such as:
 
 *Two Datasets of Questions and Answers for Studying the Development of Cross-platform Mobile Applications using Xamarin Framework*. M.Martinez **International Conference on Mobile Software Engineering and Systems (MobileSoft)** (2019) doi: 10.1109/MOBILESoft.2019.00032 [[Download Arxiv]](https://arxiv.org/abs/1712.09569)
 
-*Learning the Relation between Code Features and Code Transforms with Structured Prediction*. Z. Yu, M. Martinez, T. Bissyandé, M. Monperrus. [[Download Arxiv]](https://www.monperrus.net/martin/learning-code-transforms.pdf)
 
 
 ## 2018
@@ -207,12 +212,20 @@ Z. Yu, M. Martinez, B. Danglot, T. Durieux, M. Monperrus.  **Empirical Software 
 
 # Contact:
 
-## Email:
+### Email:
 
 - <matias.sebastian.martinez@gmail.com>
 - <matias.martinez@upc.edu>
 
-## Twitter:
+### Google Scholar
+
+[Google Scholar Matias Martinez](https://scholar.google.com/citations?user=glRf46S0yTIC&hl=en)
+
+### Github:
+
+[https://github.com/martinezmatias/](https://github.com/martinezmatias/) 
+
+### Twitter:
 
 - [https://twitter.com/mat10martinez](https://twitter.com/mat10martinez)
 
