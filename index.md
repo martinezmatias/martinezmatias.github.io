@@ -13,7 +13,6 @@ layout: default
 
 # About me:
 
-
 I am researcher at the [Universitat Politècnica de Catalunya-BarcelonaTech (UPC)](https://www.upc.edu/) (Spain), and a member of the [inSSIDE](https://insside.upc.edu/en) research group.
 I got my PhD degree in October 2014 from [University of Lille](http://www.univ-lille1.fr/)  (France) and a Computer Science degree from [UNICEN](http://www.exa.unicen.edu.ar/) (Argentina).  Moreover, I  had teaching duties at the engineering school [Telecom Lille](http://www.telecom-lille.fr/). 
 Previously, I worked as Associate Professor at the [Université Polytechnique Hauts-de-France](http://www.uphf.fr/) (France) and in the private sector as software developer (Java, Web, SOA, Mobile).  
@@ -34,7 +33,7 @@ I have published in the French magazine  [ActuAI](https://www.actuia.com/) an ar
 - Master in Computer science, 2008. UNICEN, Argentina
 
 
-# Research Interest:
+# Research Interests:
 
 - Machine learning on source code
 - Software testing, maintenance and evolution
