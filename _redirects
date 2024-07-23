@@ -12,7 +12,4 @@ http://mattgreydesign.com/* http://localhost:4000/:splat 301!
 /projects/saving-lives-sea / 301
 /projects/usa-just-brand / 301
 
-/projects/typefaces /fonts/ 301
-/portfolio /projects 301
 
-/projects/sound-thunder /projects/the-sound-of-thunder/ 301
